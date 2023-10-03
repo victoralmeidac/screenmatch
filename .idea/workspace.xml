@@ -5,9 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5f03a074-da7d-4d6c-9baa-4afdcf479060" name="Changes" comment="Concluindo capitulo 3">
+      <change afterPath="$PROJECT_DIR$/src/br/com/alura/screenmatch/calculos/Classificavel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/br/com/alura/screenmatch/calculos/FiltroRecomendacao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/br/com/alura/screenmatch/modelos/Episodio.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Filme.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/alura/screenmatch/modelos/Filme.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Principal.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/br/com/alura/screenmatch/calculos/CalculadoraDeTempo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/alura/screenmatch/calculos/CalculadoraDeTempo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/br/com/alura/screenmatch/modelos/Filme.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/alura/screenmatch/modelos/Filme.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -37,7 +40,7 @@
     </excluded-from-favorite>
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="capitulo1" />
+        <entry key="$PROJECT_DIR$" value="capitulo2" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -56,11 +59,11 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "git-widget-placeholder": "capitulo2",
+    "git-widget-placeholder": "capitulo3oficial",
     "onboarding.tips.debug.path": "C:/Users/Victor/Desktop/Estudo/Java Criando primeira aplicacao/screenmatch/src/Main.java"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Principal (1)">
+  <component name="RunManager" selected="Application.br.com.alura.screenmatch.Principal">
     <configuration name="Principal (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Principal" />
       <module name="screenmatch" />
@@ -90,8 +93,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Principal (1)" />
         <item itemvalue="Application.br.com.alura.screenmatch.Principal" />
+        <item itemvalue="Application.Principal (1)" />
         <item itemvalue="Application.Principal" />
       </list>
     </recent_temporary>
@@ -129,7 +132,15 @@
       <option name="project" value="LOCAL" />
       <updated>1696339449149</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Concluindo capitulo 3">
+      <option name="closed" value="true" />
+      <created>1696340888517</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1696340888517</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
