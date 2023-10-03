@@ -4,11 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5f03a074-da7d-4d6c-9baa-4afdcf479060" name="Changes" comment="Iniciadno curso, capitulo 1">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Filme.java" afterDir="false" />
+    <list default="true" id="5f03a074-da7d-4d6c-9baa-4afdcf479060" name="Changes" comment="Concluindo capitulo 1">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Principal.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Filme.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Filme.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -38,7 +36,7 @@
     </excluded-from-favorite>
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="master" />
+        <entry key="$PROJECT_DIR$" value="capitulo1" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -57,7 +55,7 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "git-widget-placeholder": "capitulo1",
+    "git-widget-placeholder": "capitulo2",
     "onboarding.tips.debug.path": "C:/Users/Victor/Desktop/Estudo/Java Criando primeira aplicacao/screenmatch/src/Main.java"
   }
 }]]></component>
@@ -92,11 +90,20 @@
       <option name="project" value="LOCAL" />
       <updated>1696336952271</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Concluindo capitulo 1">
+      <option name="closed" value="true" />
+      <created>1696338221650</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1696338221650</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Iniciadno curso, capitulo 1" />
-    <option name="LAST_COMMIT_MESSAGE" value="Iniciadno curso, capitulo 1" />
+    <MESSAGE value="Concluindo capitulo 1" />
+    <option name="LAST_COMMIT_MESSAGE" value="Concluindo capitulo 1" />
   </component>
 </project>
