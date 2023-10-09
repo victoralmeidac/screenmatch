@@ -4,9 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5f03a074-da7d-4d6c-9baa-4afdcf479060" name="Changes" comment="Curso trabalhando com listas e colecoes de dados, curso finalizado.">
-      <change afterPath="$PROJECT_DIR$/src/br/com/alura/screenmatch/principal/PrincipalComBusca.java" afterDir="false" />
+    <list default="true" id="5f03a074-da7d-4d6c-9baa-4afdcf479060" name="Changes" comment="Iniciando curso Java consumindo API - gravando arquivos e lidando com erros - Capitulo1">
+      <change afterPath="$PROJECT_DIR$/src/br/com/alura/screenmatch/modelos/TituloOmdb.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/screenmatch.iml" beforeDir="false" afterPath="$PROJECT_DIR$/screenmatch.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/br/com/alura/screenmatch/modelos/Titulo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/alura/screenmatch/modelos/Titulo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/br/com/alura/screenmatch/principal/PrincipalComBusca.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/alura/screenmatch/principal/PrincipalComBusca.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -17,6 +20,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Class" />
+        <option value="Record" />
       </list>
     </option>
   </component>
@@ -36,7 +40,7 @@
     </excluded-from-favorite>
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="capitulo5" />
+        <entry key="$PROJECT_DIR$" value="trabalhando-com-listas" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -55,9 +59,13 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "git-widget-placeholder": "trabalhando-com-listas",
-    "last_opened_file_path": "C:/Users/Victor/Desktop/Estudo/Java Criando primeira aplicacao/screenmatch",
-    "onboarding.tips.debug.path": "C:/Users/Victor/Desktop/Estudo/Java Criando primeira aplicacao/screenmatch/src/Main.java"
+    "git-widget-placeholder": "consumindo-api-omdb",
+    "last_opened_file_path": "C:/Users/Victor/Downloads/gson-2.10.1.jar",
+    "onboarding.tips.debug.path": "C:/Users/Victor/Desktop/Estudo/Java Criando primeira aplicacao/screenmatch/src/Main.java",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
+    "settings.editor.selected.configurable": "preferences.lookFeel"
   }
 }]]></component>
   <component name="RunManager" selected="Application.PrincipalComBusca">
@@ -181,7 +189,15 @@
       <option name="project" value="LOCAL" />
       <updated>1696812769720</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Iniciando curso Java consumindo API - gravando arquivos e lidando com erros - Capitulo1">
+      <option name="closed" value="true" />
+      <created>1696816777152</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1696816777152</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -190,6 +206,7 @@
     <MESSAGE value="Concluindo capitulo 3" />
     <MESSAGE value="Concluindo capitulo 4" />
     <MESSAGE value="Curso trabalhando com listas e colecoes de dados, curso finalizado." />
-    <option name="LAST_COMMIT_MESSAGE" value="Curso trabalhando com listas e colecoes de dados, curso finalizado." />
+    <MESSAGE value="Iniciando curso Java consumindo API - gravando arquivos e lidando com erros - Capitulo1" />
+    <option name="LAST_COMMIT_MESSAGE" value="Iniciando curso Java consumindo API - gravando arquivos e lidando com erros - Capitulo1" />
   </component>
 </project>
